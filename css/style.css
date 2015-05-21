@@ -1,0 +1,24 @@
+body {
+    background-color: #99B799;
+}
+h1 {
+    color: white;
+}
+h1{
+  text-align: center;
+}
+h3{
+  background-color: white;
+  font-weight: bold;
+}
+h2{
+  background-color: green
+}
+h2{
+  text-align: center;
+}
+.notes {
+	padding: 2px;
+	color: black;
+  margin: 4px;
+}
